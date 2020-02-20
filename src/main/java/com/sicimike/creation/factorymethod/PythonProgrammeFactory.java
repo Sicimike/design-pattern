@@ -6,6 +6,7 @@ package com.sicimike.creation.factorymethod;
  */
 public class PythonProgrammeFactory implements ProgrammeFactory {
 
+    @Override
     public Video getVideo() {
         System.out.println("获取Python视频教程");
         return new PythonVideo();

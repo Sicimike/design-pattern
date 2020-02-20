@@ -6,6 +6,7 @@ package com.sicimike.creation.factorymethod;
  */
 public class JavaProgrammeFactory implements ProgrammeFactory {
 
+    @Override
     public Video getVideo() {
         System.out.println("获取Java视频教程");
         return new JavaVideo();
