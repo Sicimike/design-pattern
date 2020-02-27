@@ -1,4 +1,4 @@
-package com.sicimike.structural.strategy.complex;
+package com.sicimike.behavioral.strategy.complex;
 
 /**
  * @author sicimike

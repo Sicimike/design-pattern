@@ -1,4 +1,4 @@
-package com.sicimike.structural.strategy.complex;
+package com.sicimike.behavioral.strategy.simple;
 
 /**
  * 出行策略
